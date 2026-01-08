@@ -1,4 +1,4 @@
-# Balaji Fast Food Operations Analysis - Data Driven Decision Making Project
+# Fast Food Operations Analysis - Data Driven Decision Making Project
 
 **Tools Used:** MySQL, Power BI, Excel
 
